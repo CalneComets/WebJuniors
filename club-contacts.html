@@ -12,28 +12,31 @@
 <link rel="stylesheet" href="http://cdn2.editmysite.com/css/sites.css?buildTime=1398211418" type="text/css" /><link rel='stylesheet' type='text/css' href='http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1397772751' />
 <link rel='stylesheet' type='text/css' href='main_style.css?1398093462' title='wsite-theme-css' />
 <style type='text/css'>
-.wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
-.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
-#wsite-title {}
-.wsite-menu-default a {}
-.wsite-menu a {}
-.wsite-image div, .wsite-caption {}
-.galleryCaptionInnerText {}
-.fancybox-title {}
-.wslide-caption {}
-.wsite-phone {}
-.wsite-headline {}
-.wsite-headline-paragraph {}
-.wsite-button-inner {}
-.wsite-not-footer blockquote, #wsite-com-product-tab blockquote {}
-.wsite-footer blockquote {}
-.blog-header h2 a {}
-h2.wsite-product-title {}
-.wsite-product .wsite-product-price a {}
+form#contact span { display: block; }
+form#contact span input, form#contact span textarea {
+background-color: #E7E8EB;
+margin: 9px 0px;
+padding-left: 15px;
+line-height: 41px;
+color: #474A59;
+width: 533px;
+outline: medium none;
+border 1px solid #D2D3D6;
+box-shadow: 3px 3px 9px 0px rgba (0,0,0,0.12) inset;
+font-size: 14px;
+form#contact span input { height: 41px; }
+form#contact span textarea { height: 200px; }
+textarea {
+    overflow: auto;
+    vertical-align: top;
+    resize: vertical;
+}
+*::-moz-selection {
+    background: none repeat scroll 0% 0% #315896;
+    color: #FFF;
+    text-shadow: none;
+}
+
 </style>
 
 <script><!--
@@ -79,15 +82,24 @@ else document.observe('dom:loaded', initFlyouts);
 	<!--header ends-->
 	<div id="content">
 		<div id="leftColumn">
-			<ul class='wsite-menu-default'><li id='pg458975580392317802'><a href='index.html'>News Flash- Training is on this Friday 28th March.</a></li><li id='pg880220373526703863'><a href='home.html'>Home</a></li><li id='pg689116059257913691'><a href='about-the-club.html'>About The Club</a></li><li id='pg978660833952582589'><a href='fixtures--events.html'>Fixtures & Events</a></li><li id='pg102205660529279077'><a href='junior-awards--honours.html'>Junior Awards & Honours</a></li><li id='pg585973689135753563'><a href='recent-photos-just-updated.html'>Recent Photos-Just updated!</a></li><li id='active'><a href='club-contacts.html'>Club Contacts</a></li><li id='pg146679897713203817'><a href='club--event-locations.html'>Club & Event Locations</a></li><li id='pg935294146403194010'><a href='form-downloads.html'>Form Downloads</a></li><li id='pg713861063971779429'><a href='http://www.swva.org.uk/calendar' target='_blank'>South West Junior Training Calendar</a></li></ul>
+			<ul class='wsite-menu-default'><li id='pg880220373526703863'><a href='home.html'>Home</a></li><li id='pg689116059257913691'><a href='about-the-club.html'>About The Club</a></li><li id='pg978660833952582589'><a href='fixtures--events.html'>Fixtures & Events</a></li><li id='pg102205660529279077'><a href='junior-awards--honours.html'>Junior Awards & Honours</a></li><li id='pg585973689135753563'><a href='recent-photos-just-updated.html'>Recent Photos-Just updated!</a></li><li id='active'><a href='club-contacts.html'>Club Contacts</a></li><li id='pg146679897713203817'><a href='club--event-locations.html'>Club & Event Locations</a></li><li id='pg935294146403194010'><a href='form-downloads.html'>Form Downloads</a></li><li id='pg713861063971779429'><a href='http://www.swva.org.uk/calendar' target='_blank'>South West Junior Training Calendar</a></li></ul>
 			<div id="leftColumnBottom"></div>
 		</div>
 		<div id="rightColumn">
 			<div id='wsite-content' class='wsite-elements wsite-not-footer'>
+<form class="contact" action="http://formspree.io/info.2011@calnecomets.co.uk">
+	<span><input type="email" placeholder="Your email" name="_replyto" /></span>
+	<span><input class="optional" type="tel" placeholder="Phone number (optional)" /></span>
+	<span><textarea name="body"></textarea></span>
+  <input type="hidden" name="_subject" value="Junior volleyball contact request" style="display:none" />
+  <input type="hidden" name="_next" value="http://calnecomets.github.io/WebJuniors/thanks.html" style="display:none" />
+  <input type="hidden" name="_gotcha" style="display:none" />
+  <input type="submit" value="Send">
+</form>
 <h2 class="wsite-content-title" style="text-align:left;"><strong style="">Junior coach &amp; development officer</strong><br /></h2>
 <div class="paragraph" style="text-align:left;display:block;"><strong style="">Neil Bentley</strong><br /><br /><strong style="">Phone - 01249 816099</strong><br /><span style=""></span><br /><span style=""></span>  <strong style="">Mobile &ndash; TBC</strong><br /><span style=""></span><br /><span style=""></span><br /><span style=""></span></div>
 
-<h2 class="wsite-content-title" style="text-align:left;">club chairman</h2>
+<h2>Club Chairman</h2>
 <div class="paragraph" style="text-align:left;display:block;"><strong>Neil Bentley</strong><br /><strong><br />Phone -01249 816099</strong><br /><br /><strong>Email - Chairman@CalneComets.co.uk</strong></div>
 
 <div>
@@ -102,18 +114,6 @@ else document.observe('dom:loaded', initFlyouts);
 <div id="footer">
 	
 
-<div id='weebly-footer-signup-container'>
-	<div class='signup-container-header'>
-		<div class='start-free'>Create a <a class='link' href='http://www.weebly.com/?utm_source=internal&utm_medium=footer&utm_campaign=3' target='_blank'>free website</a></div>
-		<div class='expand-icon'></div>
-		<div class='powered-by'>Powered by <a class='link weebly-icon' href='http://www.weebly.com/?utm_source=internal&utm_medium=footer&utm_campaign=3' target='_blank' rel='nofollow'></a></div>
-	</div>
-	<div class='signup-container-content'>
-		<h2 class='headline'>Start your own free website</h2>
-		<div class='description'>A surprisingly easy drag & drop site creator. <a class='thin-underline' href='http://www.weebly.com/?utm_source=internal&utm_medium=footer&utm_campaign=3' target='_blank' rel='nofollow'>Learn more.</a></div>
-		<iframe id='weebly-footer-signup-iframe' frameborder='0' src='http://www.weebly.com/footer_signup.php' allowTransparency='true'></iframe>
-	</div>
-</div>
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700" />
 
 <style>
