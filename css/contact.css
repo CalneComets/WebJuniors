@@ -1,0 +1,33 @@
+form.contact{
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 550;
+  font-size: 18px;
+}
+#send-button{
+  cursor:pointer;
+  font-size:24px;
+}
+input[required2], textarea[required2] {border-color:red;}
+input {
+  height:2.5em;
+  margin-bottom:0.5em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 550;
+  font-size: 1em;
+}
+textarea {
+  margin-bottom:0.5em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 550;
+  font-size: 1em;
+}
+@media screen and (min-width: 480px) {
+  form.contact{width:30em;}
+  input{width:100%;}
+  textarea{width:100%;height:150px;}
+}
+@media screen and (max-width: 480px) {
+  form.contact{width:100%;}
+  input{width:100%;}
+  textarea{width:100%;height:150px;}
+}

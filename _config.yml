@@ -1,0 +1,16 @@
+# Site settings
+title: Calne Comets Juniors
+description: > # this means to ignore newlines until "baseurl:"
+  Website for the junior section of Calne Comets Volleyball Club
+  providing volleyball for juniors in Calne and the surrounding area of
+  Wiltshire
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://juniors.calnecomets.co.uk" # the base hostname & protocol for your site
+twitter_username: CalneComets
+
+# Allow redirection
+gems:
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown
