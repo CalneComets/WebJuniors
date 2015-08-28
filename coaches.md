@@ -1,4 +1,5 @@
 ---
+Title: Our coaches
 layout: page
 excerpt: About the coaches running the junior section of Calne Comets Volleyball Club
 ---
