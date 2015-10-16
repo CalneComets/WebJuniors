@@ -44,11 +44,12 @@ There is plenty happening this season.
                                         <p align="left">23/10/2015</p>
                                 </td>
                                 <td width="275" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0cm">
-                                        <p style="font-style: normal">Training TBC</p>
+                                        <p style="font-style: normal"><font color="#ff0000"><b>No
+                                        training</b></font></p>
                                 </td>
 
 <td width="142" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0.2cm">
-                <p align="center">Lavington School</p>
+                <p align="center">&nbsp;</p>
                 </td>
                 </tr>
                         <tr valign="top">
