@@ -6,7 +6,7 @@ title: Calendar
 There is plenty happening this season.
 
 
-        <table width="567" cellpadding="4" cellspacing="0">
+<table width="567" cellpadding="4" cellspacing="0">
                 <col width="123">
                 <col width="275">
                 <col width="142">
@@ -172,6 +172,6 @@ There is plenty happening this season.
                                 </td>
                         </tr>
                 </tbody>
-        </table>
+</table>
 
 There will be further dates for December and beyond added in due course. More information about the SWVA events can be found on [their calendar](http://www.swva.org.uk/calendar).
