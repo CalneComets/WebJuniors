@@ -54,6 +54,17 @@ There is plenty happening this season.
                 </tr>
                         <tr valign="top">
                                 <td width="123" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0cm">
+                                        <p align="left" style="font-style: normal">24/10/2015</p>
+                                </td>
+                                <td width="275" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0cm">
+                                        <p style="font-style: normal">Ladies &amp; Juniors tournament</p>
+                                </td>
+                                <td width="142" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0.2cm">
+                                        <p align="center">Lavington School</p>
+                                </td>
+                        </tr>
+                        <tr valign="top">
+                                <td width="123" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0cm">
                                         <p align="left">24/10/2015</p>
                                 </td>
                                 <td width="275" style="border-top: none; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0cm; padding-bottom: 0.2cm; padding-left: 0.2cm; padding-right: 0cm">
