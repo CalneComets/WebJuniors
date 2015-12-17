@@ -10,13 +10,13 @@ There is plenty happening this season.
 <tr><th>Date</th><th>What is happening</th><th>Where</th></tr>
 <tbody>
 <tr><td>18/12/2015</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>25/12/2015</td><td>*No training*</td><td>&nbsp;</td></tr>
-<tr><td>01/01/2016</td><td>*No training*</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>25/12/2015</td><td>No training</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>01/01/2016</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>08/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>09/01/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
 <tr><td>15/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>16/01/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
-<tr><td>22/01/2016</td><td>*No training*</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>22/01/2016</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>23/01/2016</td><td>SWVA mini-volleyball grand-prix</td><td>Taunton</td></tr>
 <tr><td>29/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>05/02/2016</td><td>Training</td><td>&nbsp;</td></tr>
@@ -32,7 +32,7 @@ There is plenty happening this season.
 <tr><td>12/03/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
 <tr><td>18/03/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>19/03/2016</td><td>SWVA mini-volleyball grand-prix</td><td>TBA</td></tr>
-<tr><td>25/03/2016</td><td>*No training*</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>25/03/2016</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>01/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>08/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>09/04/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
