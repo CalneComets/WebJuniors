@@ -6,4 +6,4 @@ Welcome to the junior section of [Calne Comets Volleyball Club](http://www.calne
 
 ![Current squad](/images/IMG_20150904_200637543.jpg "The juniors after their first training session")
 
-> *There is no training after 18 December until 8 January. In addition there will be no training on 22 January as the sports hall is not available.*
+> *There is no training on 22 January as the sports hall is not available.*
