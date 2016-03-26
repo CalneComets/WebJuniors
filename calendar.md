@@ -36,8 +36,8 @@ There is plenty happening this season.
 <tr><td>18/03/2016</td><td>Training</td><td>&nbsp;</td></tr>
 <tr><td>19/03/2016</td><td>SWVA mini-volleyball grand-prix</td><td>Bristol TBC</td></tr>
 <tr class="warn"><td>25/03/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr><td>01/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>08/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>01/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>08/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>09/04/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
 <tr><td>15/04/2016</td><td>Combined training with adults</td><td>&nbsp;</td></tr>
 <tr><td>16/04/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
