@@ -42,8 +42,8 @@ There is plenty happening this season.
 <tr><td>15/04/2016</td><td>Combined training with adults</td><td>&nbsp;</td></tr>
 <tr><td>16/04/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
 <tr><td>16/04/2016</td><td>WVA Ladies and Juniors tournament (season finale)</td><td>Lavington School</td></tr>
-<tr><td>22/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>29/04/2016</td><td>Training</td><td>&nbsp;</td></tr>
+<tr><td>22/04/2016</td><td>Final training</td><td>&nbsp;</td></tr>
+<tr class="warn"><td>29/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
 </tbody>
 </table>
 
