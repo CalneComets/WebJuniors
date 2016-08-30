@@ -9,7 +9,11 @@ There is plenty happening this season.
 <table>
 <tr><th>Date</th><th>What is happening</th><th>Where</th></tr>
 <tbody>
-<tr><td>18/12/2015</td><td>Training</td><td>&nbsp;</td></tr>
+<tr><td>02/09/2016</td><td>First training session of the season</td><td>Calne Leisure Centre</td></tr>
+<tr><td>09/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>16/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>23/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>30/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr class="warn"><td>25/12/2015</td><td>No training</td><td>&nbsp;</td></tr>
 <tr class="warn"><td>01/01/2016</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>08/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
