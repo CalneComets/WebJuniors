@@ -12,42 +12,18 @@ There is plenty happening this season.
 <tr><td>02/09/2016</td><td>First training session of the season</td><td>Calne Leisure Centre</td></tr>
 <tr><td>09/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>16/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>TBC</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>17/09/2016</td><td>Inter-regional training</td><td>Riverside Leisure Centre, Exeter</td></tr>
 <tr><td>23/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>30/09/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
-<tr class="warn"><td>25/12/2015</td><td>No training</td><td>&nbsp;</td></tr>
-<tr class="warn"><td>01/01/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr><td>08/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>09/01/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
-<tr><td>15/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>16/01/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
-<tr class="warn"><td>22/01/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr><td>23/01/2016</td><td>SWVA mini-volleyball grand-prix</td><td>Taunton</td></tr>
-<tr><td>23/01/2016</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
-<tr><td>29/01/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>05/02/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>06/02/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
-<tr><td>06/02/2016</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
-<tr><td>12/02/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>13/02/2016</td><td>SWVA mini-volleyball satellite grand-prix</td><td>Plymouth</td></tr>
-<tr><td>19/02/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>20/02/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
-<tr><td>27/02/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>04/03/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>05/03/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
-<tr><td>11/03/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>12/03/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
-<tr><td>12/03/2016</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
-<tr><td>18/03/2016</td><td>Training</td><td>&nbsp;</td></tr>
-<tr><td>19/03/2016</td><td>SWVA mini-volleyball grand-prix</td><td>Bristol TBC</td></tr>
-<tr class="warn"><td>25/03/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr class="warn"><td>01/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr class="warn"><td>08/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
-<tr><td>09/04/2016</td><td>Inter-regional training for girls</td><td>Exeter</td></tr>
-<tr><td>15/04/2016</td><td>Combined training with adults</td><td>&nbsp;</td></tr>
-<tr><td>16/04/2016</td><td>Inter-regional training for boys</td><td>Exeter</td></tr>
-<tr><td>16/04/2016</td><td>WVA Ladies and Juniors tournament (season finale)</td><td>Lavington School</td></tr>
-<tr><td>22/04/2016</td><td>Final training</td><td>&nbsp;</td></tr>
-<tr class="warn"><td>29/04/2016</td><td>No training</td><td>&nbsp;</td></tr>
+<tr><td>07/10/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>14/10/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>TBC</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>21/10/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr class="warn"><td>28/10/2016</td><td>No training</td><td>&nbsp;</td></tr>
+<tr><td>29/10/2016</td><td>Inter-regional training</td><td>Riverside Leisure Centre, Exeter</td></tr>
+<tr><td>14/01/2017</td><td>SWVA mini-volleyball grand-prix</td><td>Wiltshire</td></tr>
+<tr><td>TBC</td><td>Combined training with adults</td><td>&nbsp;</td></tr>
 </tbody>
 </table>
 
