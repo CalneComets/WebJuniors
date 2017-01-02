@@ -36,6 +36,7 @@ There is plenty happening this season.
 <tr><td>10/11/2016</td><td>Training</td><td>Wellsway School</td></tr>
 <tr><td>16/12/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>06/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>08/01/2017</td><td>Introduction to volleyball</td><td>Lavington School</td></tr>
 <tr><td>08/01/2017</td><td>Development tournament</td><td>Wellsway School</td></tr>
 <tr><td>13/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>14/01/2017</td><td>SWVA mini-volleyball grand-prix</td><td>Wiltshire</td></tr>
