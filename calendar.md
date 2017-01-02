@@ -34,11 +34,30 @@ There is plenty happening this season.
 <tr><td>02/12/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>09/12/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>10/11/2016</td><td>Training</td><td>Wellsway School</td></tr>
-<tr><td>16/12/2016</td><td>TBC whether there will be training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>16/12/2016</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>06/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>08/01/2017</td><td>Development tournament</td><td>Wellsway School</td></tr>
+<tr><td>13/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>14/01/2017</td><td>SWVA mini-volleyball grand-prix</td><td>Wiltshire</td></tr>
+<tr><td>20/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>21/01/2017</td><td>Training</td><td>Wellsway School</td></tr>
+<tr><td>27/01/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>28/01/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>03/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>10/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr class="warn"><td>17/02/2017</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>19/02/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>24/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>03/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>10/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>17/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>18/03/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>24/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>31/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>07/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr class="warn"><td>14/04/2017</td><td>No training</td><td>&nbsp;</td></tr>
+<tr><td>21/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>28/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>29/04/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
 <tr><td>TBC</td><td>Combined training with adults</td><td>&nbsp;</td></tr>
 </tbody>
