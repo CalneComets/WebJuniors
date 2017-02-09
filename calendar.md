@@ -47,14 +47,16 @@ There is plenty happening this season.
 <tr><td>03/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>10/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr class="warn"><td>17/02/2017</td><td>No training</td><td>&nbsp;</td></tr>
-<tr><td>19/02/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>18/02/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
 <tr><td>24/02/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>25/02/2017</td><td>SWVA mini-volleyball grand-prix</td><td>Wellsway School</td></tr>
 <tr><td>03/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>10/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>17/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>18/03/2017</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
 <tr><td>24/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>31/03/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>02/04/2017</td><td>SWVA mini-volleyball championships</td><td>Plymouth</td></tr>
 <tr><td>07/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr class="warn"><td>14/04/2017</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>21/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
