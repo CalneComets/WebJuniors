@@ -61,6 +61,7 @@ There is plenty happening this season.
 <tr class="warn"><td>14/04/2017</td><td>No training</td><td>&nbsp;</td></tr>
 <tr><td>21/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>28/04/2017</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>16/06/2017</td><td>Training</td><td>Recreation Ground</td></tr>
 </tbody>
 </table>
 
