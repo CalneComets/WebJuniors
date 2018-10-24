@@ -17,13 +17,21 @@ There is plenty happening this season.
 <tr><td>05/10/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>12/10/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>19/10/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
-<tr><td>20/10/2018</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
 <tr><td>26/10/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>27/10/2018</td><td>SWVA JuVoTo</td><td>Wellsprings Leisure Centre, Cheddon Road, Taunton, TA2 7QP</td></tr>
-<tr class="warn"><td>28/10/2016</td><td>No training</td><td>&nbsp;</td></tr>
+<tr><td>27/10/2018</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr class="warn"><td>02/11/2018</td><td>No training</td><td>&nbsp;</td></tr>
+<tr><td>09/11/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>16/11/2018</td><td>Open Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>23/11/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>24/11/2018</td><td>SWVA JuVoTo</td><td>Wellsway SC, Keynsham, Bristol</td></tr>
+<tr><td>24/11/2018</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>30/11/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>07/12/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
+<tr><td>08/12/2018</td><td>WVA Ladies and Juniors tournament</td><td>Lavington School</td></tr>
+<tr><td>14/12/2018</td><td>Training</td><td>Calne Leisure Centre</td></tr>
 <tr><td>05/01/2019</td><td>SWVA JuVoTo</td><td>Wellsway SC, Keynsham, Bristol</td></tr>
-<tr><td>09/02/2019</td><td>SWVA JuVoTo</td><td>Stroud/td></tr>
+<tr><td>09/02/2019</td><td>SWVA JuVoTo</td><td>Stroud</td></tr>
 <tr><td>09/03/2019</td><td>SWVA Junior Championships</td><td>Wellsprings Leisure Centre, Cheddon Road, Taunton, TA2 7QP</td></tr>
 </tbody>
 </table>
