@@ -4,7 +4,7 @@ title: About
 redirect_from: /about-the-club.html
 ---
 
-The junior section of [Calne Comets Volleyball Club](http://www.calnecomets.co.uk) is run by our Junior Development Officer, Neil Bentley, with assistance from other [coaches](/coaches.html), parents and some players who have come through the junior ranks.
+The junior section of [Calne Comets Volleyball Club](https://www.calnecomets.co.uk) is run by our Junior Development Officer, Neil Bentley, with assistance from other [coaches](/coaches.html), parents and some players who have come through the junior ranks.
 
 We aim to provide juniors with the opportunity to learn to play volleyball and if they want to compete in local and regional competitions. We enter junior teams in tournaments organised by our county association and a grand-prix of tournaments with juniors from all over the south-west.
 

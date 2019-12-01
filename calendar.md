@@ -36,4 +36,4 @@ There is plenty happening this season.
 </tbody>
 </table>
 
-More information about the SWVA events can be found on [their calendar](http://www.swva.org.uk/calendar).
+More information about the SWVA events can be found on [their calendar](https://www.swva.org.uk/calendar).
