@@ -4,5 +4,5 @@ layout: default
 
 Welcome to the junior section of [Calne Comets Volleyball Club](https://www.calnecomets.co.uk/). You can find more information [about the juniors here](/about.html) and [our training sessions](/training.html).
 
-![Come any try volleyball](/images/20190309_000130_0001.png "Come and try volleyball")
+Following the easing of Coronavirus restrictions the juniors are training outdoors each Friday on Calne Recreation Ground starting at 18:30.
 
