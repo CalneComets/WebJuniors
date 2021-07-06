@@ -6,3 +6,4 @@ Welcome to the junior section of [Calne Comets Volleyball Club](https://www.caln
 
 Following the easing of Coronavirus restrictions the juniors are training outdoors each Friday on Calne Recreation Ground starting at 18:30.
 
+![Juniors on the Rec](https://calnecomets.co.uk/wp-content/uploads/2021/07/IMG_0041-large.jpg)
