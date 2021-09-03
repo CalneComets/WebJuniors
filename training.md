@@ -4,7 +4,7 @@ title: Training
 permalink: /training.html
 ---
 
-Training takes place during winter at [Calne Leisure Centre](http://www.wiltshire.gov.uk/leisure-calne) on a Friday evening between 7PM and 8PM.
+Training takes place during winter at [Calne Leisure Centre](http://www.wiltshire.gov.uk/leisure-calne) on a Friday evening between 6PM and 7PM.
 
 The cost is £3 per training session for each junior.
 
